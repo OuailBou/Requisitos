@@ -1,0 +1,8 @@
+D:\PIM\PIM\bin\Debug\PIM.exe.config
+D:\PIM\PIM\bin\Debug\PIM.exe
+D:\PIM\PIM\bin\Debug\PIM.pdb
+D:\PIM\PIM\obj\Debug\PIM.csprojResolveAssemblyReference.cache
+D:\PIM\PIM\obj\Debug\PIM.Properties.Resources.resources
+D:\PIM\PIM\obj\Debug\PIM.csproj.GenerateResource.Cache
+D:\PIM\PIM\obj\Debug\PIM.exe
+D:\PIM\PIM\obj\Debug\PIM.pdb
